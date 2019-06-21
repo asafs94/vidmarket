@@ -22,13 +22,13 @@ node index.js
 ### API Paths
 Path | Object | Request Types | Comments
 ------------ | ------------- | ----------- | -----------
-"/api/genres"    | genre      | GET / ,GET /:id, PUT /:id, DELETE /:id, POST / 
-"/api/customers" | customer   | GET / ,GET /:id, PUT /:id, DELETE /:id, POST /
-"/api/movies"    | movie      | GET / ,GET /:id, PUT /:id, DELETE /:id, POST /
-"/api/rentals"   | rental     | GET / ,POST /
-"/api/users"     | user       | POST / | A sign up service
-"/api/auth"      | auth       | POST / | A login service
-"/api/returns"   |            |
+/api/genres    | genre      | GET / ,GET /:id, PUT /:id, DELETE /:id, POST / 
+/api/customers | customer   | GET / ,GET /:id, PUT /:id, DELETE /:id, POST /
+/api/movies   | movie      | GET / ,GET /:id, PUT /:id, DELETE /:id, POST /
+/api/rentals   | rental     | GET / ,POST /
+/api/users     | user       | POST / | A sign up service
+/api/auth      | auth       | POST / | A login service
+/api/returns   |            |
 
 ## Built With
 * [__Node.js__](https://nodejs.dev/)
