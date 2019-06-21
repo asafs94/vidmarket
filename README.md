@@ -1,7 +1,7 @@
 # vidmarket
 A backend server for a video rental service.
 
-##Description
+## Description
 A small project to demonstrate some of the actions of video rental store's backend server.
 
 ## Getting started
