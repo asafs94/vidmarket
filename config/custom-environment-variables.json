@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "jwtPvtKey",
+    "db":"DB_STRING"
+}
